@@ -88,13 +88,6 @@ export const Styles = StyleSheet.create({
 
     },
     buttonContainer: {
-        borderWidth: 1,
-        backgroundColor: 'white',
-        padding: 10,
-        flexDirection: 'row',
-        width: '50%',
-        justifyContent: 'center',
-        borderRadius: 5,
-        textAlign: 'center',
+
     }
 });
